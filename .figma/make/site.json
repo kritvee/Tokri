@@ -1,0 +1,10 @@
+{
+  "description": "Helps vegetable vendors track smart-basket items and weights, bill customers instantly, manage stock and sales, and get voice-first assistance in three languages.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
